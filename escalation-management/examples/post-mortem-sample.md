@@ -1,3 +1,4 @@
+## [Home](https://smallcares.github.io/)
 
 # Post‑Mortem Template (Sample)
 
