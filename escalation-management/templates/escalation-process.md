@@ -1,6 +1,6 @@
 ## [Home](https://smallcares.github.io/)
 
-# Escalation Process
+# Escalation Process (More coming soon)
 
 ## Levels
 | Level | Description | Example |
